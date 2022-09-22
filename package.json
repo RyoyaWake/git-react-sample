@@ -1,5 +1,5 @@
 {
-  "name": "git-react-sample",
+  "name": "@r-wake/git-react-sample",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -55,5 +55,9 @@
   "bugs": {
     "url": "https://github.com/RyoyaWake/git-react-sample/issues"
   },
-  "homepage": "https://github.com/RyoyaWake/git-react-sample#readme"
+  "homepage": "https://github.com/RyoyaWake/git-react-sample#readme",
+  "workspaces": [
+    "packages\\sample-a",
+    "packages\\sample-b"
+  ]
 }
