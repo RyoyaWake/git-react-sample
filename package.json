@@ -1,5 +1,5 @@
 {
-  "name": "@RyoyaWake/git-react-sample",
+  "name": "@r-wake/git-react-sample",
   "version": "0.1.3",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
