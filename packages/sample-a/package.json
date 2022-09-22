@@ -1,5 +1,5 @@
 {
-  "name": "sample-a",
+  "name": "@r-wake/sample-a",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/RyoyaWake/git-react-sample.git",
     "directory": "packages/sample-a"
   },
-  "publishConfig": { 
+  "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "author": "",
